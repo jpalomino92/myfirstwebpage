@@ -1,9 +1,15 @@
-*{
+nav a img{
+    width: 40px;
+    height: 40px;
     margin:0;
     padding: 0;
-    box-sizing: border-box;
 }
-nav a img{
-    width: 100px;
-    height: 100px;
-}
+
+.mt{
+    margin-top: 66px;
+  }
+
+.carousel-inner div img{
+      width: 2000px;
+      height: 400px;
+  }
