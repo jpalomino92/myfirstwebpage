@@ -1,0 +1,8 @@
+python manage.py startproject (empezas un nuevo projecto)
+ python manage.py runserver (arrancamos el server)
+
+
+py manage.py makemigrations (hace los cambios en la base de adtos)
+py manage.py migrate (impacatan los cambios en la DB)
+
+python manage.py startapp (empezamos un nuevo modulo de la pagina
